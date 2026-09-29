@@ -3,8 +3,8 @@
 ### 🎓 Estudante de Sistemas de Informação \| 💻 Suporte Técnico \| 🚀 Desenvolvimento de Software
 
 Sou estudante de **Sistemas de Informação no UNIFEB --- Centro
-Universitário da Fundação Educacional de Barretos** e formado como
-**Técnico em Análise e Desenvolvimento de Sistemas pelo IFSP --- Campus
+Universitário da Fundação Educacional de Barretos**
+Formado em: **Técnico em Análise e Desenvolvimento de Sistemas pelo IFSP --- Campus
 Barretos**.
 
 Tenho experiência com **Suporte Técnico N1 e Help Desk**, atendimento a
