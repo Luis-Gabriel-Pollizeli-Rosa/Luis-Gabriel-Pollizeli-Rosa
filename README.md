@@ -112,22 +112,14 @@ construção de sistemas utilizando o ecossistema **.NET**.
 
 # 🌐 Onde me encontrar
 
-```{=html}
 <p align="left">
-```
-`<a href="https://github.com/Luis-Gabriel-Pollizeli-Rosa">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Luis%20Gabriel-181717?style=for-the-badge&logo=github&logoColor=white">`{=html}
-`</a>`{=html}
-`<a href="https://www.linkedin.com/in/luis-gabriel-908361380">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Luis%20Gabriel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">`{=html}
-`</a>`{=html}
-`<a href="https://www.instagram.com/gabriel_pollizeli">`{=html}
-`<img src="https://img.shields.io/badge/Instagram-@gabriel__pollizeli-E4405F?style=for-the-badge&logo=instagram&logoColor=white">`{=html}
-`</a>`{=html}
-```{=html}
+  <a href="https://github.com/Luis-Gabriel-Pollizeli-Rosa">
+    <img src="https://img.shields.io/badge/LUIS GABRIEL POLLIZELI ROSA -181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.instagram.com/gabriel_pollizeli?stkn=MWxpZzRjdnE0NWkwcw==">
+    <img src="https://img.shields.io/badge/Instagram-@gabriel_pollizzeli-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
-```
-
 ------------------------------------------------------------------------
 
 ## 🎯 Objetivo
