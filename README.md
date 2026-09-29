@@ -1,54 +1,49 @@
-# Olá! 👋 Eu sou o Luis Gabriel Pollizeli Rosa
+# 👋 Olá, eu sou Luis Gabriel Pollizeli Rosa
 
-### 🎓 Estudante de Sistemas de Informação \| 💻 Suporte Técnico \| 🚀 Desenvolvimento de Software
+### 💻 Suporte Técnico N1 | 🎓 Sistemas de Informação | 🚀 Desenvolvimento de Software
 
-Sou estudante de **Sistemas de Informação no UNIFEB --- Centro
-Universitário da Fundação Educacional de Barretos**
+Profissional de TI com experiência em **Suporte Técnico N1 e Help Desk**, atuando com atendimento a usuários, análise de incidentes, acompanhamento de chamados e resolução de problemas em sistemas e plataformas.
 
-Formado como **Técnico em Análise e Desenvolvimento de Sistemas pelo IFSP --- Campus
-Barretos**.
+🎓 Cursando **Sistemas de Informação no UNIFEB**  
+💻 Técnico em **Análise e Desenvolvimento de Sistemas pelo IFSP – Campus Barretos**  
 
-Tenho experiência com **Suporte Técnico N1 e Help Desk**, atendimento a
-usuários, análise de incidentes, acompanhamento de chamados e utilização
-de diferentes sistemas e plataformas.
+📍 Barretos - SP  
+🎯 Aberto a oportunidades na área de **Tecnologia da Informação**
 
-Atualmente estou ampliando meus conhecimentos em **desenvolvimento de
-software, desenvolvimento web, análise de dados e APIs**.
+<p align="left">
 
-------------------------------------------------------------------------
+<a href="https://www.linkedin.com/in/luis-gabriel-908361380">
+  <img src="https://img.shields.io/badge/LinkedIn-Luis%20Gabriel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:gabrielpolizelli908@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+</p>
+
+---
 
 ## 👨‍💻 Sobre mim
 
--   🎓 Cursando **Sistemas de Informação**
--   💻 Experiência com **Suporte Técnico N1 e Help Desk**
--   🛠️ Diagnóstico e resolução de incidentes
--   🌐 Estudando **Angular, TypeScript, HTML e CSS**
--   ⚙️ Projetos e estudos com **Python, C# e .NET**
--   🔗 Conhecimentos em **APIs REST**
--   📊 **Power BI e análise de dados**
--   🗄️ Bancos de dados e SQL
--   🚀 Buscando oportunidades para crescer profissionalmente na área de
-    TI
+Minha experiência profissional em TI começou na área de **Suporte Técnico**, trabalhando diretamente com usuários e resolução de problemas.
 
-------------------------------------------------------------------------
+Durante essa experiência, tive contato com:
 
-## 💼 Experiência com Suporte Técnico
+- 🎫 Atendimento e acompanhamento de chamados
+- 🔎 Análise de logs e investigação de falhas
+- 🛠️ Diagnóstico e resolução de incidentes
+- 🧾 Sistemas de emissão de Nota Fiscal
+- 🔐 Certificado Digital
+- 💬 Plataformas de WhatsApp e APIs
+- 📊 Sistemas CRM
+- 👥 Suporte e orientação a usuários
 
-Experiência com suporte e atendimento a usuários em diferentes sistemas
-e plataformas:
+Paralelamente, venho aprofundando meus conhecimentos em **desenvolvimento de software**, criando projetos e estudando tecnologias voltadas para Front-end, Back-end e análise de dados.
 
--   🧾 Sistemas de emissão de Nota Fiscal
--   🔐 Certificado Digital
--   💬 Plataformas de WhatsApp e APIs
--   📊 Sistemas CRM
--   🎫 Atendimento e acompanhamento de chamados
--   🔎 Análise e acompanhamento de logs
--   🛠️ Diagnóstico e resolução de problemas
--   👥 Suporte e orientação a usuários
+---
 
-------------------------------------------------------------------------
-
-# 🛠️ Tecnologias e Ferramentas
+# 🛠️ Tecnologias
 
 ### 🌐 Front-end
 
@@ -59,83 +54,88 @@ e plataformas:
 
 ### ⚙️ Back-end e Programação
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🗄️ Banco de Dados
 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📊 Dados
 
-![Power
-BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### 🧰 Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio
-Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual
-Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-------------------------------------------------------------------------
+---
 
-# 🚀 Projetos e Estudos
+# 🎓 Formação
 
-### 📊 Dashboard de Análise de Dados
+### 🎓 Sistemas de Informação
 
-Projeto utilizando **Power BI**, envolvendo tratamento de dados, análise
-de indicadores, construção de dashboards e visualização de informações.
+**UNIFEB – Centro Universitário da Fundação Educacional de Barretos**
 
-### 🌐 Aplicações Web com Angular
+📅 2024 - 2028  
+📚 Cursando
 
-`Angular` • `TypeScript` • `HTML` • `CSS` • `API REST`
+---
 
-Desenvolvimento de interfaces, componentes e consumo de APIs externas.
+### 💻 Técnico em Análise e Desenvolvimento de Sistemas
 
-### 🐍 Python e Análise de Dados
+**Instituto Federal de São Paulo – IFSP | Campus Barretos**
 
--   Pandas
--   Matplotlib
--   Análise exploratória de dados
--   Manipulação de arquivos CSV
--   Visualização de dados
+📅 2019 - 2023
 
-### ⚙️ C# e .NET
+---
 
-Estudos de lógica de programação, desenvolvimento de aplicações e
-construção de sistemas utilizando o ecossistema **.NET**.
+# 🎯 Atualmente
 
-------------------------------------------------------------------------
+🔭 Desenvolvendo projetos para fortalecer meu portfólio
 
-# 🌐 Onde me encontrar
+🌱 Aprofundando meus conhecimentos em **Angular e TypeScript**
+
+🐍 Estudando **Python e análise de dados**
+
+⚙️ Evoluindo meus conhecimentos em **C# e .NET**
+
+📚 Cursando **Sistemas de Informação**
+
+💼 Buscando novas oportunidades na área de **Tecnologia da Informação**
+
+---
+
+# 🌐 Contato
 
 <p align="left">
-  <a href="https://github.com/Luis-Gabriel-Pollizeli-Rosa">
-    <img src="https://img.shields.io/badge/LUIS GABRIEL POLLIZELI ROSA -181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.instagram.com/gabriel_pollizeli?stkn=MWxpZzRjdnE0NWkwcw==">
-    <img src="https://img.shields.io/badge/Instagram-@gabriel_pollizzeli-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+
+<a href="https://www.linkedin.com/in/luis-gabriel-908361380">
+  <img src="https://img.shields.io/badge/LinkedIn-Luis%20Gabriel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:gabrielpolizelli908@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-gabrielpolizelli908-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://github.com/Luis-Gabriel-Pollizeli-Rosa">
+  <img src="https://img.shields.io/badge/GitHub-Luis%20Gabriel-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </p>
-------------------------------------------------------------------------
 
-## 🎯 Objetivo
+---
 
-Continuar evoluindo na área de **Tecnologia da Informação**, adquirindo
-experiência profissional e desenvolvendo projetos envolvendo **suporte
-técnico, desenvolvimento de software, sistemas, APIs e análise de
-dados**.
+<p align="center">
+  💻 <strong>Suporte • Desenvolvimento • Tecnologia</strong>
+</p>
 
-------------------------------------------------------------------------
-
-> 💡 **"Tecnologia é aprendizado constante: cada problema resolvido se
-> transforma em conhecimento para o próximo desafio."**
-
-⭐ Explore meus repositórios e acompanhe minha evolução na área de
-tecnologia.
-
-🤝 Estou aberto a oportunidades, projetos, networking e colaboração.
+<p align="center">
+  🚀 Sempre aprendendo, desenvolvendo e transformando problemas em soluções.
+</p>
