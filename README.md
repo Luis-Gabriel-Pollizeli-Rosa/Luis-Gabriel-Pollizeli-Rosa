@@ -16,10 +16,6 @@ Profissional de TI com experiência em **Suporte Técnico N1 e Help Desk**, atua
   <img src="https://img.shields.io/badge/LinkedIn-Luis%20Gabriel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:gabrielpolizelli908@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
 </p>
 
 ---
@@ -118,10 +114,6 @@ Paralelamente, venho aprofundando meus conhecimentos em **desenvolvimento de sof
 
 <a href="https://www.linkedin.com/in/luis-gabriel-908361380">
   <img src="https://img.shields.io/badge/LinkedIn-Luis%20Gabriel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:gabrielpolizelli908@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-gabrielpolizelli908-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 <a href="https://github.com/Luis-Gabriel-Pollizeli-Rosa">
